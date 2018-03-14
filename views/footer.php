@@ -5,6 +5,7 @@
  <html>
    <head>
      <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
      <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
      <title></title>
    </head>

@@ -5,6 +5,7 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
   <title></title>
 </head>
@@ -14,9 +15,7 @@
       <p class="presentation">Antiquités .Décoration .Aménagement d'intérieur</p>
     </section>
     <section class="logo">
-      <a href="#"></a>
-      <h2 class="Didier">Didier</h2>
-      <h2 class="Motte">Motte</h2>
+      <a href="#"><img src="/MVC/assets/img/touchwood-logo-sans-slogan-nobelBold.png" alt=""></a>
     </section>
     <section class="branding">
       <a class="logo"href="/index.php"></a>

@@ -5,6 +5,7 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
   <title>Archives:objets</title>
 </head>
@@ -39,13 +40,14 @@
       <li class="item 20"><a href="https://didiermotte.be/stock/comptoir-de-magasin-3/"><img src="/MVC/assets/img/IMG_3005-250x250.jpg" alt=""><p><h4>Comptoir de magasin</h4></a></p></li>
       <li class="item 21"><a href="https://didiermotte.be/stock/lavabo-double-cuvettes-marbre/"><img src="/MVC/assets/img/IMG_2698-768x1024.jpg" alt=""><p><h4>Lavabo double cuvette en marbre</h4></a></p></li>
       <li class="item 22"><a href="https://didiermotte.be/stock/comptoir-de-mercerie/"><img src="/MVC/assets/img/IMG_2482-768x1024.jpg" alt=""><p><h4>Comptoir de mercerie en chêne et hêtre</h4></a></p></li>
-      <li class="item 24"><a href="https://didiermotte.be/stock/vitrine-de-magasin-2/"><img src="/MVC/assets/img/IMG_2416-768x1024.jpg" alt=""><p><h4>Vitrine de magasin avec portes coulissantes</h4></a></p></li>
-      <li class="item 25"><a href="https://didiermotte.be/stock/comptoir-vitre-en-acajou/"><img src="/MVC/assets/img/IMG_1882-1024x768.jpg" alt=""><p> <h4>Comptoir vitré en acajou</h4></a></p></li>
-      <li class="item 26"><a href="https://didiermotte.be/stock/tables-de-cafe/"><img src="/MVC/assets/img/IMG_1170-1024x768.jpg" alt=""><p> <h4>Tables de café</h4></a></p></li>
-      <li class="item 27"><a href="https://didiermotte.be/stock/comptoir-caisse-de-boulangerie/"><img src="/MVC/assets/img/IMG_1192-768x1024.jpg" alt=""><p><h4></h4>Comptoir-caisse de boulangerie</a></p></li>
-      <li class="item 28"><a href="https://didiermotte.be/stock/meuble-de-barbier-5/"></a><img src="/MVC/assets/img/IMG_0902-1024x543.jpg" alt=""><p> <h4>Meuble de barbier 3 places</h4></p></li>
-      <li class="item 29"><a href="https://didiermotte.be/stock/meuble-de-mercerie-2/"><img src="/MVC/assets/img/IMG_0885-1.jpg" alt=""><p> <h4>Meuble de mercerie</h4></a></p></li>
-      <li class="item 30"><a href="https://didiermotte.be/stock/meuble-de-barbier-avec-miroir/"><img src="/MVC/assets/img/IMG_0858-768x1024.jpg" alt=""><p> <h4>Meuble de barbier avec miroir</h4></a></p></li>
+      <li class="item 23"><a href="https://didiermotte.be/stock/vitrine-de-magasin-2/"><img src="/MVC/assets/img/IMG_2416-768x1024.jpg" alt=""><p><h4>Vitrine de magasin avec portes coulissantes</h4></a></p></li>
+      <li class="item 24"><a href="https://didiermotte.be/stock/comptoir-vitre-en-acajou/"><img src="/MVC/assets/img/IMG_1882-1024x768.jpg" alt=""><p> <h4>Comptoir vitré en acajou</h4></a></p></li>
+      <li class="item 25"><a href="https://didiermotte.be/stock/tables-de-cafe/"><img src="/MVC/assets/img/IMG_1170-1024x768.jpg" alt=""><p> <h4>Tables de café</h4></a></p></li>
+      <li class="item 26"><a href="https://didiermotte.be/stock/comptoir-caisse-de-boulangerie/"><img src="/MVC/assets/img/IMG_1192-768x1024.jpg" alt=""><p><h4></h4>Comptoir-caisse de boulangerie</a></p></li>
+      <li class="item 27"><a href="https://didiermotte.be/stock/meuble-de-barbier-5/"></a><img src="/MVC/assets/img/IMG_0902-1024x543.jpg" alt=""><p> <h4>Meuble de barbier 3 places</h4></p></li>
+      <li class="item 28"><a href="https://didiermotte.be/stock/meuble-de-mercerie-2/"><img src="/MVC/assets/img/IMG_0885-1.jpg" alt=""><p> <h4>Meuble de mercerie</h4></a></p></li>
+      <li class="item 29"><a href="https://didiermotte.be/stock/meuble-de-barbier-avec-miroir/"><img src="/MVC/assets/img/IMG_0858-768x1024.jpg" alt=""><p> <h4>Meuble de barbier avec miroir</h4></a></p></li>
+      <li class="item 30"><a href="https://didiermotte.be/stock/meuble-depicerie/"><img src="/MVC/assets/img/IMG_1595.jpg" alt=""><p><h4>MEUBLE D'EPICERIE</h4></a></p></li>
     </ul>
   </section>
   <?php
