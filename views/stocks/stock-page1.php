@@ -7,9 +7,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
   <title>Archives:objets</title>
 </head>
 <body>
+  <section class="stock-background">
   <?php
   include '../header.php';
   ?>
@@ -59,5 +61,6 @@
 <?php
 include '../footer.php';
  ?>
+</section>
 </body>
 </html>

@@ -1,0 +1,54 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url("/MVC/assets/img/NY_docks_o.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  width: auto;
+  background-position: bottom;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  color: #272727;
+}
+/*page d'acceuil */
+.language nav{
+  width: 100%;
+  height: 40px;
+  background-color: black;
+}
+.main-header header{
+  width: 100%;
+}
+.card{
+  width:100vh;
+  height: 60vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-top: 25vh;
+}
+.main-header p{
+text-align: center;
+}
+.main-header .phone-number a{
+  text-decoration: none;
+  color: #272727;
+}
+.main-header .nav ul{
+  list-style: none;
+  text-align: center;
+}
+.main-header .nav li{
+  display: inline;
+  text-align: center;
+}
+.main-header .nav a{
+  text-decoration: none;
+  color: #272727;
+}
+.main-header .nav button{
+  width: 18vh;
+  height: 7vh
+}
