@@ -47,8 +47,8 @@ text-align: center;
   text-align: center;
 }
 .main-header .nav li{
-  display: inline;
   text-align: center;
+  display: inline;
 }
 .main-header .nav a{
   text-decoration: none;
@@ -60,10 +60,12 @@ text-align: center;
   margin-left: 1vh;
   border-radius: 10%;
   background-color: #272727;
+  border: solid 1vh #232323;
 }
 .Quotes{
+  margin-top: 35vh;
   width: 40vw;
-  text-align: center;
+  height: 60vh;
   font-style: italic;
   margin-left: auto;
   margin-right: auto;
@@ -71,18 +73,112 @@ text-align: center;
 .Quotes .quote {
   font-size: 4vh;
   color: white;
-  background-color: grey;
-  width:40vw;
+  background-color: #3c3c3c;
+  width:35vw;
+  text-align: center;
 }
 .Quotes .author {
   width: 20vw;
   font-size: 2vh;
   background-color: #272727;
   color: white;
-  margin-left: 6vw;
+  margin-top: -3vh;
+  margin-left: 8.5vw;
+  text-align: center;
 }
 /*page stock */
 .stock-background{
   background-color: white;
   width: 100%;
+}
+.stock_presentation{
+  height: 150 vh;
+  width: 100%;
+}
+.stock_presentation ul{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(250px, 1fr));
+  /*grid-template-areas:
+  "item 1 item 2 item 3 item 4 item 5"
+  "item 6 item 7 item 8 item 9 item 10"
+  "item11 item 12 item 13 item 14 item 15 "
+  "item 16 item 17 item 18 item 19 item 20"
+  "item 21 item 22 item 23 item 24 item 25"
+  "item 26 item 27 item 28 item 29 item 30";*/
+  grid-gap: 1em;
+  list-style: none;
+  width: 90%;
+  padding-left: 10vw;
+}
+.stock_presentation li{
+  background-color: #272727;
+  text-align: center;
+  border-radius: 2.5%
+}
+.stock_presentation img{
+  margin-top: 2vh;
+}
+.stock_presentation a{
+  text-decoration: none;
+  color: white;
+}
+.stock_presentation h4{
+  font-size: 1.5vh;
+}
+/* footer que j'inclus */
+.footerwrapper{
+  width: 100%;
+  height: 27vh;
+  padding-top: 4vh;
+  background-color: #272727;
+  text-align: center;
+  color: white;
+  font-size: 1.8vh;
+  text-decoration: none;
+}
+.footer-infos ul{
+  list-style: none;
+  line-height: 2;
+}
+a[href^="mailto:"]
+{color: white;
+text-decoration-style: dotted;
+}
+a[href^="contact.php"]
+{color: white;
+text-decoration-style: dotted;
+}
+a[href^="https://www.face"]
+{color: white;
+text-decoration-style: dotted;
+}
+a[href^="https://www.inst"]
+{color: white;
+text-decoration-style: dotted;
+}
+a[href^="https://pix"]
+{color: white;
+text-decoration-style: dotted;
+}
+/* header que j'inclus*/
+.sub-header{
+  font-size: 1.9vh;
+  height: 14vh;
+  width: 100%;
+  background-color: #272727;
+  color: white;
+}
+.sub-header hr{
+  color: #525252;
+}
+.branding{
+  float: right;
+  display: inline;
+  margin-top: -9.5vh;
+  margin-right: 2.5vw;
+}
+.branding a{
+  text-decoration: none;
+  color: white;
 }

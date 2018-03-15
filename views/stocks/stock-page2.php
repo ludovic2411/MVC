@@ -6,10 +6,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
+    <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="/MVC/assets/css/MVC-style.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <title>Archives:objets</title>
   </head>
   <body>
+    <section class="stock-background">
     <?php
     include '../header.php';
     ?>
@@ -19,11 +22,11 @@
      <section class="stock_presentation">
        <ul>
          <li class="item 1"><a href="https://didiermotte.be/stock/pharmacie-ancienne/"><img src="/MVC/assets/img/IMG_0816-768x1024.jpg" alt=""><p><h4>PHARMACIE ANCIENNE</h4></a></p></li>
-         <li class="item 2"><a href="https://didiermotte.be/stock/table-de-drapier/"><img src="/MVC/assets/img/IMG_0798.jpg" alt=""><p><h4>TABLE DE DRAPIER</h4></a></p></li>
+         <li class="item 2"><a href="https://didiermotte.be/stock/table-de-drapier/"><img src="" alt=""><p><h4>TABLE DE DRAPIER</h4></a></p></li>
           <li class="item 3"><a href="https://didiermotte.be/stock/bibliotheque-de-notaire-2/"><img src="/MVC/assets/img/IMG_0721-1.jpg" alt=""><p><h4>BIBLIOTHEQUE DE NOTAIRE</h4></a></p></li>
           <li class="item 4"><a href="https://didiermotte.be/stock/comptoir-de-banque-de-france/"><img src="/MVC/assets/img/Banque_de_France_005-1024x768.jpg" alt=""><p><h4>COMPTOIR DE LA BANQUE DE FRANCE</h4></a></p></li>
           <li class="item 5"><a href="https://didiermotte.be/stock/comptoir-de-drapier/"><img src="/MVC/assets/img/IMG_0668-1.jpg" alt=""><p><h4>COMPTOIR DE DRAPIER</h4></a></p></li>
-          <li class="item 6"><a href="https://didiermotte.be/stock/meuble-de-barbier-3/"><img src="/MVC/assets/img/IMG_0668-1.jpg" alt=""><p><h4>ANCIEN MEUBLE DE BARBIER A DOUBLE CUVETTE</h4></a></p></li>
+          <li class="item 6"><a href="https://didiermotte.be/stock/meuble-de-barbier-3/"><img src="" alt=""><p><h4>ANCIEN MEUBLE DE BARBIER A DOUBLE CUVETTE</h4></a></p></li>
           <li class="item 7"><a href="https://didiermotte.be/stock/radiateurs-decores-fonte/"><img src="/MVC/assets/img/IMG_0135.jpg" alt=""><p><h4>RADIATEURS DECORE EN FONTE</h4></a></p></li>
           <li class="item 8"><a href="https://didiermotte.be/stock/meuble-de-barbier-2/"><img src="/MVC/assets/img/IMG_0100-768x1024.jpg" alt=""><p><h4>MEUBLE DE BARBIER EN NOYER</h4></a></p></li>
           <li class="item 9"><a href="https://didiermotte.be/stock/meuble-datelier-2/"><img src="/MVC/assets/img/IMG_3812.jpg" alt=""><p><h4>MEUBLE D'ATELIER</h4></a></p></li>
@@ -38,7 +41,7 @@
           <li class="item 18"><a href="https://didiermotte.be/stock/grande-vitrine-de-magasin/"><img src="/MVC/assets/img/IMG_2869-768x1024.jpg" alt=""><p><h4>GRANDE VITRINE DE MAGASIN</h4></a></p></li>
           <li class="item 19"><a href="https://didiermotte.be/stock/frigo-en-bois-2/"><img src="/MVC/assets/img/IMG_2785.jpg" alt=""><p><h4>FRIGO EN BOIS</h4></a></p></li>
           <li class="item 20"><a href="https://didiermotte.be/stock/meuble-de-chapellerie/"><img src="/MVC/assets/img/IMG_2638-1024x1024.jpg" alt=""><p><h4>MEUBLE DE CHAPELLRIE</h4></a></p></li>
-          <li class="item 21"><a href="https://didiermotte.be/stock/interieur-de-pharmacie-ancienne/"><img src="/MVC/assets/img/IMG_2544.jpg" alt=""><p><h4>INTERIEUR DE PHARMACIE ANCIENNE</h4></a></p></li>
+          <li class="item 21"><a href="https://didiermotte.be/stock/interieur-de-pharmacie-ancienne/"><img src="" alt=""><p><h4>INTERIEUR DE PHARMACIE ANCIENNE</h4></a></p></li>
           <li class="item 22"><a href="https://didiermotte.be/stock/table-drapier/"><img src="/MVC/assets/img/IMG-0596.jpg" alt=""><p><h4>TABLE DE DRAPIER</h4></a></p></li>
           <li class="item 23"><a href="https://didiermotte.be/stock/serie-de-chaises-bistrot-2/"><img src="/MVC/assets/img/IMG_2358.jpg" alt=""><p><h4>SERIE DE CHAISES BISTROT</h4></a></p></li>
           <li class="item 24"><a href="https://didiermotte.be/stock/grande-table/"><img src="/MVC/assets/img/IMG_1989-768x1024.jpg" alt=""><p><h4>GRANDE TABLE</h4></a></p></li>
@@ -48,10 +51,11 @@
           <li class="item 28"><a href="https://didiermotte.be/stock/table-darchitecte/"><img src="/MVC/assets/img/IMG_1708.jpg" alt=""><p><h4>TABLE D'ARCHITECTE</h4></a></p></li>
           <li class="item 29"><a href="https://didiermotte.be/stock/chevalet-datelier/"><img src="/MVC/assets/img/IMG_1718.jpg" alt=""><p><h4>CHEVALET D'ATELIER</h4></a></p></li>
           <li class="item 30"><a href="https://didiermotte.be/stock/meuble-decole-4/"><img src="/MVC/assets/img/IMG_1768.jpg" alt=""><p><h4>MEUBLE D'ECOLE</h4></a></p></li>
-
       </ul>
+    </section>
       <?php
       include '../footer.php';
        ?>
+     </section>
   </body>
 </html>

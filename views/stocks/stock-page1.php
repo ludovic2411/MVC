@@ -6,6 +6,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/MVC/assets/css/MVC-style.css">
   <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
   <title>Archives:objets</title>
@@ -31,7 +32,7 @@
       <li class="item 9"><a href="https://didiermotte.be/stock/grands-miroirs/"><img src="/MVC/assets/img/IMG_2966-250x250.jpg" alt=""><p><h4>Grand miroir en bois sculpté doré</h4></a></p></li>
       <li class="item 10"><a href="https://didiermotte.be/stock/vitrine-chromee-de-magasin/"><img src="/MVC/assets/img/IMG_3658-250x250.jpg" alt=""><p> <h4>Vitrine chromée de magasin</h4></a></p></li>
       <li class="item 11"><a href="https://didiermotte.be/stock/comptoir-de-bar-art-deco/"><img src="/MVC/assets/img/IMG_1888-250x250.jpg" alt=""><p><h4>Comptoir de bar art déco</h4></a></p></li>
-      <li class="item 12"><a href="https://didiermotte.be/stock/coffre-fort-3/"><img src="MVC/assets/img/IMG_17341-250x250.jpg" alt=""><p><h4>coffre-fort</h4></a></p></li>
+      <li class="item 12"><a href="https://didiermotte.be/stock/coffre-fort-3/"><img src="MVC/assets/img/IMG_17341-250x250.jpg" alt=""><p><h4>Coffre-fort</h4></a></p></li>
       <li class="item 13"><a href="https://didiermotte.be/stock/comptoir-de-boulanger-2/"><img src="/MVC/assets/img/IMG_1216-250x250.jpg" alt=""><p> <h4>Comptoir vitrine de boulanger en marbre</h4></a></p></li>
       <li class="item 14"><a href="https://didiermotte.be/stock/serie-de-tables-bistrot/"><img src="/MVC/assets/img/IMG_0785-250x250.jpg" alt=""><p> <h4>Série de tables "bistrot"</h4></a></p></li>
       <li class="item 15"><a href="https://didiermotte.be/stock/bureau-americain/"><img src="/MVC/assets/img/IMG_3695-250x250.jpg" alt=""><p> <h4>Bureau américain</h4></a></p></li>
