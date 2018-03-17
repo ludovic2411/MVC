@@ -1,6 +1,3 @@
-<?php
-
-?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,9 +9,6 @@
   <title>Archives:objets</title>
 </head>
 <body>
-  <?php
-  include '../header.php';
-  ?>
   <section class="stock-background">
   <?php
   include 'Search-stock.php';
@@ -59,9 +53,6 @@
   <?php
   include 'Catalogue.php';
    ?>
-<?php
-include '../footer.php';
- ?>
 </section>
 </body>
 </html>
