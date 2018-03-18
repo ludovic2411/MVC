@@ -53,6 +53,21 @@
           <li class="item 30"><a href="https://didiermotte.be/stock/meuble-decole-4/"><img src="/MVC/assets/img/IMG_1768.jpg" alt=""><p><h4>MEUBLE D'ECOLE</h4></a></p></li>
       </ul>
     </section>
+    <?php
+    include 'Page-numbers.php';
+     ?>
+     <?php
+  include 'Search-stock.php';
+      ?>
+      <?php
+  include '../Catalogue_title.php';
+       ?>
+    <?php
+    include 'Catalogue.php';
+     ?>
+  <?php
+  include '../footer.php';
+   ?>
       <?php
       include '../footer.php';
        ?>
