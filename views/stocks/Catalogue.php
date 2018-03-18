@@ -11,7 +11,6 @@
      <title></title>
    </head>
    <body>
-     <h3>Catalogue</h3>
      <section class="Catalogue">
        <ul class="column-1">
          <li><a href="#">acajou (1)</a></li>

@@ -16,8 +16,8 @@
        <h2>Stock</h2>
        <h3>Fouiller le stock</h3>
        <form class="" action="stock.php" method="get">
-         <input type="text" name="search-stock" value="">
-         <input type="submit" name="search" value="rechercher">
+         <input type="text" name="search-stock" placeholder="Exemple:table" value="">
+         <input  class="search" type="submit" name="search" value="rechercher">
        </form>
      </section>
    </body>

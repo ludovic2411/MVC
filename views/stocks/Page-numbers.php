@@ -12,13 +12,17 @@
    </head>
    <body>
      <ul class="page_numbers">
-       <li><a href="#">1</a></li>
-       <li><a href="#">2</a></li>
-       <li><a href="#">3</a></li>
-       <li><a href="#">4</a></li>
-       <li><a href="#">5</a></li>
-       <li><a href="#">Suivant <i class="fas fa-angle-double-right"></i></a></li>
+       <li><a href="/MVC/views/stocks/stock-page1.php"><button>1</button></a></li>
+       <li><a href="/MVC/views/stocks/stock-page2.php"><button>2</button></a></li>
+       <li><a href="#"><button>3</button></a></li>
+       <li><a href="#"><button>4</button></a></li>
+       <li><a href="#"><button>5</button></a></li>
+       <li><a href="#"><button class="next">Suivant<i class="fas fa-angle-double-right"></i></button></a></li>
      </ul>
-     <hr>
+     <section class"lines">
+     <hr class="line-1">
+     <hr class="line-2">
+     <hr class="line-3">
+   </section>
    </body>
  </html>

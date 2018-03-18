@@ -56,6 +56,12 @@
   <?php
   include 'Page-numbers.php';
    ?>
+   <?php
+include 'Search-stock.php';
+    ?>
+    <?php
+include '../Catalogue_title.php';
+     ?>
   <?php
   include 'Catalogue.php';
    ?>

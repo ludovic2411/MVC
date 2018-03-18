@@ -23,6 +23,13 @@
     <section class="branding">
         <p class="phone-number"> <i class="fas fa-phone"><a href="+32 495/20.59.34">+32 495/20.59.34</a></i></p>
     </section>
+    <section class="Contact-nav">
+      <ul>
+        <li><a href="Presentation.php"><button class="presentation" type="button" name="button-presentation">Présentation</button></a></li>
+        <li><a href="stocks/stock-page1.php"><button type="button" name="button-stock">Le stock</button></a></li>
+        <li><a href="Contact.php"><button type="button" name="button-contact">Contact</button></a></li>
+      </ul>
+    </section>
   </header>
 </body>
 </html>

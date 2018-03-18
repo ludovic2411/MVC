@@ -9,6 +9,9 @@
     <title></title>
   </head>
   <body>
+    <section class="black_band">
+
+    </section>
     <nav class="language"></nav>
     <header class="main-header">
       <section class="card">
@@ -19,8 +22,8 @@
         <p class="phone-number"> <i class="fas fa-phone"><a class="phone-number" href="+32 495/20.59.34">+32 495/20.59.34</a></i></p>
         <section class="nav">
           <ul>
-            <li><a href="views/Presentation.php"><button type="button" name="button-presentation">Présentation</button></a></li>
-            <li><a href="views/stocks/stock-page1.php"><button type="button" name="button-stock">Le stoc</button></a></li>
+            <li><a class="presentation" href="views/Presentation.php"><button class="presentation" type="button" name="button-presentation">Présentation</button></a></li>
+            <li><a href="views/stocks/stock-page1.php"><button type="button" name="button-stock">Le stock</button></a></li>
             <li><a href="views/Contact.php"><button type="button" name="button-contact">Contact</button></a></li>
           </ul>
         </section>
